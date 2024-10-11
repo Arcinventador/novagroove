@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplayBlack-Italic.woff2') format('woff2'),
+        url('HalyardDisplayBlack-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplayBlack-Regular.woff2') format('woff2'),
+        url('HalyardDisplayBlack-Regular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplayExtraLight-Italic.woff2') format('woff2'),
+        url('HalyardDisplayExtraLight-Italic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display Book';
+    src: url('HalyardDisplayBook-Regular.woff2') format('woff2'),
+        url('HalyardDisplayBook-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplay-BoldItalic.woff2') format('woff2'),
+        url('HalyardDisplay-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplayExtraLight-Regular.woff2') format('woff2'),
+        url('HalyardDisplayExtraLight-Regular.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display Book';
+    src: url('HalyardDisplayBook-Italic.woff2') format('woff2'),
+        url('HalyardDisplayBook-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplay-Bold.woff2') format('woff2'),
+        url('HalyardDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplaySemiBold-Italic.woff2') format('woff2'),
+        url('HalyardDisplaySemiBold-Italic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplayMedium-Regular.woff2') format('woff2'),
+        url('HalyardDisplayMedium-Regular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplayMedium-Italic.woff2') format('woff2'),
+        url('HalyardDisplayMedium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplaySemiBold-Regular.woff2') format('woff2'),
+        url('HalyardDisplaySemiBold-Regular.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplayLight-Regular.woff2') format('woff2'),
+        url('HalyardDisplayLight-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplayLight-Italic.woff2') format('woff2'),
+        url('HalyardDisplayLight-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplay-Italic.woff2') format('woff2'),
+        url('HalyardDisplay-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Display';
+    src: url('HalyardDisplay-Regular.woff2') format('woff2'),
+        url('HalyardDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroBlack-Regular.woff2') format('woff2'),
+        url('HalyardMicroBlack-Regular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro Book';
+    src: url('HalyardMicroBook-Regular.woff2') format('woff2'),
+        url('HalyardMicroBook-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro Book';
+    src: url('HalyardMicroBook-Italic.woff2') format('woff2'),
+        url('HalyardMicroBook-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroBlack-Italic.woff2') format('woff2'),
+        url('HalyardMicroBlack-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroExtraLight-Regular.woff2') format('woff2'),
+        url('HalyardMicroExtraLight-Regular.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicro-Bold.woff2') format('woff2'),
+        url('HalyardMicro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicro-BoldItalic.woff2') format('woff2'),
+        url('HalyardMicro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroExtraLight-Italic.woff2') format('woff2'),
+        url('HalyardMicroExtraLight-Italic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicro-Regular.woff2') format('woff2'),
+        url('HalyardMicro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroSemiBold-Regular.woff2') format('woff2'),
+        url('HalyardMicroSemiBold-Regular.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroMedium-Italic.woff2') format('woff2'),
+        url('HalyardMicroMedium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroLight-Italic.woff2') format('woff2'),
+        url('HalyardMicroLight-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroMedium-Regular.woff2') format('woff2'),
+        url('HalyardMicroMedium-Regular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halyard Micro';
+    src: url('HalyardMicroLight-Regular.woff2') format('woff2'),
+        url('HalyardMicroLight-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
