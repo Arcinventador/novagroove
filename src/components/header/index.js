@@ -20,10 +20,10 @@ function Header() {
                     <div className="col-span-5 ">
                         <div className='header_icons flex flex-row gap-5 items-center justify-end	'>
                             <TransitionsModal btnText="Get Started" />
-                            <Image className='img-fluid' src={PhoneIcon} alt='phone' />
+                            {/* <Image className='img-fluid' src={PhoneIcon} alt='phone' />
                             <Link href="tel:1234567890" className='font-bold text-xl flex items-center'>
                                 <span className='font-light'>Call:</span> 123 456 7890
-                            </Link>
+                            </Link> */}
                         </div>
                     </div>
                 </div>
