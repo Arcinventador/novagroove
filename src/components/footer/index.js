@@ -20,7 +20,7 @@ function Footer() {
                                     <p className='text-xl font-semibold '>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium, totam...</p>
                                         <span className='contact' ><IoLocationSharp /> 350 S Brooks St, Sheridan, WY 82801, United States</span> <br/> <br/>
                                         <span className='contact' ><MdEmail />info@novagroovegood.com</span>
-                                   
+                            
                                     {/* <ul className='flex gap-2 justify-center'>
                                         <li><a href="#" className='text-3xl'><AiFillFacebook /></a></li>
                                         <li><a href="#" className='text-3xl'><AiFillTwitterCircle /></a></li>
