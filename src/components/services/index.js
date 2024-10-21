@@ -17,32 +17,39 @@ import { Autoplay } from 'swiper/modules';
 
 const ServiceCardDetail = [
   {
-    imgSrc: ServiceCard1, title: "Heading Here",
-    text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    imgSrc: ServiceCard1, title: "All-in-One Advantage Plans",
+    text: "Discover innovative Medicare diverse advantages. Utilize the complete health coverage with practical added benefits.",
     icon: ServiceIcon
   },
 
-  { imgSrc: ServiceCard2, title: "Heading Here", text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.", icon: ServiceIcon1 },
-
-  { imgSrc: ServiceCard3, title: "Heading Here", text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.", icon: ServiceIcon },
   {
-    imgSrc: ServiceCard1, title: "Heading Here",
-    text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    icon: ServiceIcon
+    imgSrc: ServiceCard2, title: "Comprehensive Healthcare Services",
+    text: "Elevate your health by utilizing customized solutions that benefit everyone. Get a comprehensive strategy to fix health care.",
+    icon: ServiceIcon1
   },
 
-  { imgSrc: ServiceCard2, title: "Heading Here", text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.", icon: ServiceIcon1 },
-
-  { imgSrc: ServiceCard3, title: "Heading Here", text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.", icon: ServiceIcon },
   {
-    imgSrc: ServiceCard1, title: "Heading Here",
-    text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    imgSrc: ServiceCard3, title: "Enhanced Coverage Plans",
+    text: "Get peace of mind at Nova Groove Good through comprehensive coverage by bridging gaps with supplemental plans.",
+    icon: ServiceIcon
+  },
+  {
+    imgSrc: ServiceCard1, title: "Prescription Medication Coverage",
+    text: "Integrate your wellness by taking prescription Medicare plans for you. Covering all your drug coverage choices with effective Medicare solutions",
     icon: ServiceIcon
   },
 
-  { imgSrc: ServiceCard2, title: "Heading Here", text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.", icon: ServiceIcon1 },
+  {
+    imgSrc: ServiceCard2, title: "Enrollment Periods Simplified",
+    text: "We simplify and streamline the enrollment process to make it as efficient as possible and secure the best coverage through our dedicated health providers.",
+    icon: ServiceIcon1
+  },
 
-  { imgSrc: ServiceCard3, title: "Heading Here", text: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.", icon: ServiceIcon },
+  {
+    imgSrc: ServiceCard3, title: "Personalized Guidance",
+    text: "You can benefit yourself by utilizing our ideal personalized guidance and our expert healthcare suggestions.",
+    icon: ServiceIcon
+  },
 
 ]
 function Services() {

@@ -18,7 +18,9 @@ function AboutUs() {
                         <div className="md:col-span-6">
                             <h3 className="text-3xl md:text-5xl font-semibold">About Us</h3>
                             <p className="text-lg md:text-xl mt-5">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                            At Nova Groove Good, we offer healthcare-defined solutions to satisfy our patients. We believe every customer deserves coverage that meets their needs and empowers them to get wellness. Our quality healthcare treatment fosters your health with technology that ensures improvement in your health. 
+                            </p>
+                            <p className="text-lg md:text-xl mt-5">Choosing our expert ensures that delivering the highest standards of care and service as well. With a dedicated team of professional healthcare providers, we guarantee a complete Medicare solution according to your needs.
                             </p>
                         </div>
                     </div>

@@ -17,7 +17,8 @@ function Footer() {
                             <div className="col-span-6 ">
                                 <div className="footer_content text-center">
                                     <Image className='img-fluid' src={Logo} alt='' />
-                                    <p className='text-xl font-semibold '>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium, totam...</p>
+                                    <p className='text-xl font-semibold '>Get Our Dedicated Healthcare Professionals’ Assistance
+                                    </p>
                                         <span className='contact' ><IoLocationSharp /> 350 S Brooks St, Sheridan, WY 82801, United States</span> <br/> <br/>
                                         <span className='contact' ><MdEmail />info@novagroovegood.com</span>
                             
