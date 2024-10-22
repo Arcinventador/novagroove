@@ -1,11 +1,18 @@
 "use client"
 import Image from 'next/image'
 import React, { useRef, useState } from 'react';
-import ServiceIcon from '@/assets/icons/services-icon.png'
 import ServiceIcon1 from '@/assets/icons/services-icon1.png'
+import ServiceIcon2 from '@/assets/icons/services-icon2.png'
+import ServiceIcon3 from '@/assets/icons/services-icon3.png'
+import ServiceIcon4 from '@/assets/icons/services-icon4.png'
+import ServiceIcon5 from '@/assets/icons/services-icon5.png'
+import ServiceIcon6 from '@/assets/icons/services-icon6.png'
 import ServiceCard1 from '@/assets/images/services-1.png'
 import ServiceCard2 from '@/assets/images/services-2.png'
 import ServiceCard3 from '@/assets/images/services-3.png'
+import ServiceCard4 from '@/assets/images/services-4.png'
+import ServiceCard5 from '@/assets/images/services-5.png'
+import ServiceCard6 from '@/assets/images/services-6.png'
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
@@ -19,36 +26,36 @@ const ServiceCardDetail = [
   {
     imgSrc: ServiceCard1, title: "All-in-One Advantage Plans",
     text: "Discover innovative Medicare diverse advantages. Utilize the complete health coverage with practical added benefits.",
-    icon: ServiceIcon
+    icon: ServiceIcon1
   },
 
   {
     imgSrc: ServiceCard2, title: "Comprehensive Healthcare Services",
     text: "Elevate your health by utilizing customized solutions that benefit everyone. Get a comprehensive strategy to fix health care.",
-    icon: ServiceIcon1
+    icon: ServiceIcon2
   },
 
   {
     imgSrc: ServiceCard3, title: "Enhanced Coverage Plans",
     text: "Get peace of mind at Nova Groove Good through comprehensive coverage by bridging gaps with supplemental plans.",
-    icon: ServiceIcon
+    icon: ServiceIcon3
   },
   {
-    imgSrc: ServiceCard1, title: "Prescription Medication Coverage",
+    imgSrc: ServiceCard4, title: "Prescription Medication Coverage",
     text: "Integrate your wellness by taking prescription Medicare plans for you. Covering all your drug coverage choices with effective Medicare solutions",
-    icon: ServiceIcon
+    icon: ServiceIcon4
   },
 
   {
-    imgSrc: ServiceCard2, title: "Enrollment Periods Simplified",
+    imgSrc: ServiceCard5, title: "Enrollment Periods Simplified",
     text: "We simplify and streamline the enrollment process to make it as efficient as possible and secure the best coverage through our dedicated health providers.",
-    icon: ServiceIcon1
+    icon: ServiceIcon5
   },
 
   {
-    imgSrc: ServiceCard3, title: "Personalized Guidance",
+    imgSrc: ServiceCard6, title: "Personalized Guidance",
     text: "You can benefit yourself by utilizing our ideal personalized guidance and our expert healthcare suggestions.",
-    icon: ServiceIcon
+    icon: ServiceIcon6
   },
 
 ]
@@ -61,7 +68,7 @@ function Services() {
           <div className="col-span-12">
             <div className="services_heading">
               <h2 className="text-5xl font-bold text-black-800 text-center">Services</h2>
-              <p className='text-1x1 text-xl	 text-center my-4 w-3/6 m-auto '>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+              <p className='text-1x1 text-xl	 text-center my-4 w-3/6 m-auto '>At Nova Groove Good, we provide a diverse range of medicare services designed to enhance your health and well-being.</p>
             </div>
           </div>
         </div>
@@ -114,13 +121,7 @@ function Services() {
       </div>
     </div>
 
-    //   <div className="container mx-auto">
-    //     
-
-
-    //     </div>
-    //   </div>
-    // 
+ 
   )
 }
 

@@ -141,18 +141,18 @@ h6 {}
   left: 50%;
   transform: translate(-50%, 0%);
   background: var(--pri-color);
-  padding: 20px 15px;
+  /* padding: 20px 15px; */
   border-radius: 50%;
   transition: 0.50s ease;
   border: 1px solid white;
 
 }
 
-.serive_card_icon img {
+/* .serive_card_icon img {
   width: 70px;
   filter: invert(1);
   height: 60px;
-}
+} */
 
 .service_card:hover {
   border: 1px solid white;
@@ -161,11 +161,11 @@ h6 {}
 
 }
 
-.service_card:hover .serive_card_icon {
+/* .service_card:hover .serive_card_icon {
   background: #0d3460;
   transition: 0.50s ease;
   border: 1px solid #0d3460;
-}
+} */
 
 .service_card::before {
   position: absolute;
@@ -478,3 +478,18 @@ h6 {}
   justify-content: center;
   align-items: center;
 }
+
+/* modal */
+.modal-close-btn{
+
+  min-width: auto;
+  position: absolute;
+  top: -25px;
+  right: -20px;
+  background: #45b597;
+  color: white;
+  border-radius: 50%;
+  height: 45px;
+  width: 45px;
+}
+/* modal */
