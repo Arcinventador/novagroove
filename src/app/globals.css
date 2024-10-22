@@ -482,13 +482,13 @@ h6 {}
 /* modal */
 .modal-close-btn{
 
-  min-width: auto;
-  position: absolute;
+  min-width: auto !important;
+  position: absolute !important;
   top: -25px;
   right: -20px;
-  background: #45b597;
-  color: white;
-  border-radius: 50%;
+  background: #45b597 !important;
+  color: white !important;
+  border-radius: 50% !important;
   height: 45px;
   width: 45px;
 }
